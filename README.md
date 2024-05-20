@@ -34,14 +34,11 @@ Click the "Copy to Clipboard" button to copy the displayed quote to your clipboa
 Project Structure
 graphql
 Copy code
-quote-generator/
-│
-├── index.html         # The main HTML file
-├── script.js          # JavaScript file for handling logic and API calls
-├── README.md          # Project README file
-│
-└── css/
-    └── tailwind.min.css  # Tailwind CSS file for styling
+quote-generator
+1.index.html         # The main HTML file
+2.script.js          # JavaScript file for handling logic and API calls
+3.README.md          # Project README file
+4.css=>tailwind.min.css  # Tailwind CSS file for styling
 API Reference
 This project uses the Quotable API to fetch quotes.
 
