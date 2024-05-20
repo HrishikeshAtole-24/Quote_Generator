@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/HrishikeshAtole-24/quote-generator.git
+git clone https://github.com/HrishikeshAtole-24/index.html
 cd quote-generator
 Open index.html in your web browser:
 
