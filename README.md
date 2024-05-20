@@ -18,20 +18,6 @@ Getting Started
 Prerequisites
 To run this project locally, you need a web browser. No additional installations are required.
 
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/HrishikeshAtole-24/index.html
-cd quote-generator
-Open index.html in your web browser:
-
-bash
-Copy code
-open index.html
-Alternatively, you can simply drag and drop the index.html file into your browser.
-
 Usage
 Enter a topic:
 
